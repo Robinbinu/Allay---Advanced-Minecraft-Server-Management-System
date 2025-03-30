@@ -45,8 +45,8 @@ utc = pytz.utc
 ist = pytz.timezone('Asia/Kolkata')
 
 # Constants
-TELEGRAM_BOT_TOKEN = '7251343630:AAHDUxzk-pnExhcOKgVlwseVKglFcCN21Ak'
-SERVER_IP = 'pixelcrew.myddns.me'
+TELEGRAM_BOT_TOKEN = ''
+SERVER_IP = ''
 SERVER_PORT = '19132'
 SERVER_URL='coming soon . . .'
 WORLD_DIR = "/home/mcserver/minecraft_bedrock/worlds/Bedrock level"
@@ -56,7 +56,7 @@ USERDATA_PATH = 'user_data.csv'
 BACKUP_DIR = "/home/mcserver/minecraft_bedrock/backup"
 PROGRAM_DIR = "/home/mcpe"
 CREDENTIALS_FILE = "/home/mcpe/credentials.json"
-DRIVE_FOLDER_ID = '1zQroWnZA0101_5c8Dl8i4zjviYAH2vuO'
+DRIVE_FOLDER_ID = ''
 CHAT_ID = '-1001431136940'
 BACKUP_CHAT_ID = '-1002172741280'
 BACKUP_TOPIC_ID = '2028'
@@ -66,7 +66,7 @@ NO_PLAYERS_TIMEOUT = 60
 ALLOWED_GROUP_IDS = [-1001431136940, -1002172741280,-4511173255] 
 INTRUDER_ALERT_GROUP_ID = -1001431136940
 MODEL_NAME = 'qwen2:1.5b'
-OPEN_AI_API = "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"
+OPEN_AI_API = "" #Use GROQ API
 client = Groq(api_key=OPEN_AI_API)
 
 # Global variable

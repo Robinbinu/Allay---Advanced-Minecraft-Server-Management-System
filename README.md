@@ -25,8 +25,8 @@ Allay is an advanced, Python-based automation tool engineered to **monitor, mana
 ## Installation Guide ⚙️
 1. **Clone the Repository:**
     ```sh
-    git clone https://github.com/Robinbinu/allay.git
-    cd allay
+    https://github.com/Robinbinu/Allay-Advanced-Minecraft-Server-Management-System.git
+    cd Allay-Advanced-Minecraft-Server-Management-System
     ```
 2. **Install Dependencies:**
     ```sh
